@@ -19,7 +19,7 @@ int main() {
       result = a*b;
       break;
       default:
-      cout << "opzione non e valide";
+      cout << "opzione non valida";
       break;
 
    }
